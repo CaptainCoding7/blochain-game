@@ -1,0 +1,12 @@
+
+[
+
+    {
+        "src" : "tokenSrc",
+        "id" : "tokenID",
+        "name" : "tokenName",
+        "owner" : "this.account",
+        "price" : 0.12
+    }
+    
+]
